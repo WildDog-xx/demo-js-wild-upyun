@@ -1,6 +1,6 @@
-var testbucket = '<your-bucket>'; // 服务名称<bucket>
-var form_api_secret= '<your-secret>';// 表单API密钥 
-var wilddogurl = 'https://<your-appId>.wilddogio.com/upyun';//Wilddog 应用
+var testbucket = 'mycloud2'; // 服务名称<bucket>
+var form_api_secret= 'mGKsr9JVOuo2byldIC+Nej54fZA=';// 表单API密钥
+var wilddogurl = 'https://stock123.wilddogio.com/upyun';//Wilddog 应用
 
 
 var options = {
